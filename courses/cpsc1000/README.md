@@ -1,4 +1,4 @@
-# CPSC 1000: Essential Computer Application
+# CPSC 1000 - Essential Computer Application
 
 [View this course on Langara](https://langara.ca/programs-and-courses/courses/CPSC/1000.html)
 
