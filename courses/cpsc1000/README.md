@@ -10,7 +10,7 @@ Students will receive credit for only one of BCAP 1200 or CPSC 1000.
 
 ## Prerequisites
 
-**Prerequisite(s):** none.
+**Prerequisite(s):** None.
 
 ## Resources
 
