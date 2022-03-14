@@ -1,4 +1,4 @@
-# CPSC 2221: Data Base Systems
+# CPSC 2221 - Data Base Systems
 
 [View this course on Langara](https://langara.ca/programs-and-courses/courses/CPSC/2221.html)
 
