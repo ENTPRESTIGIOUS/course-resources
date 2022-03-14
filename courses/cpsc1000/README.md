@@ -1,16 +1,16 @@
-# CPSC 2221: Data Base Systems
+# CPSC 1000: Essential Computer Application
 
 [View this course on Langara](https://langara.ca/programs-and-courses/courses/CPSC/2221.html)
 
 ## Course Description
 
-A comprehensive introduction to theory and practice of designing and building databases and applications using database management systems. The relational model, relational algebra, SQL (the standard language for creating, querying, and modifying relational databases), UML or E/R approach to database design, as well as relational design principles based on functional dependencies and normal forms. Other topics include indexes, views, transactions, integrity constraints, and triggers. Students will design and implement a relational database for an enterprise as a major project using programming tools widely used in industry (e.g., Oracle).
+This course is intended for students who have no previous (or limited) experience with computers. It provides an introduction to concepts in computer science as well as hands-on computer experience using many computer applications, including word processing, presentation software, spreadsheets, and databases. The windows operating system, file management, electronic mail, internet browsing, and the use of graphic images are integrated into the classroom and laboratory.
 
-Students will receive credit for only one of CPSC 1220 and 2221.
+Students will receive credit for only one of BCAP 1200 or CPSC 1000.
 
 ## Prerequisites
 
-**Prerequisite(s):** A minimum "C" grade in one of CPSC 1040, 1045, 1150, or 1155. Prerequisites are valid for only three years.
+**Prerequisite(s):** none.
 
 ## Resources
 
