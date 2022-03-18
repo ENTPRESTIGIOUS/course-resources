@@ -6,6 +6,8 @@
 
 This course is intended for students who have no previous (or limited) experience with computers. It provides an introduction to concepts in computer science as well as hands-on computer experience using many computer applications, including word processing, presentation software, spreadsheets, and databases. The windows operating system, file management, electronic mail, internet browsing, and the use of graphic images are integrated into the classroom and laboratory.
 
+Students will receive credit for only one of BCAP 1200 or CPSC 1000.
+
 ## Prerequisites
 
 **Prerequisite(s):** None.
