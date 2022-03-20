@@ -24,7 +24,6 @@ This repository is a central place for computer science students at Langara to s
 - [CPSC 1480](courses/cpsc1480/README.md)
 - [CPSC 1490](courses/cpsc1490/README.md)
 - [CPSC 1491](courses/cpsc1491/README.md)
-- [CPSC 2221](courses/cpsc2221/README.md)
 - [CPSC 2030](courses/cpsc2030/README.md)
 
 ## Can't find what you need?
